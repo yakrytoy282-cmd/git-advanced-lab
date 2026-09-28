@@ -1,1 +1,2 @@
 function login() {}
+function validateEmail() {}
